@@ -6,4 +6,4 @@
 
 ## Ekran Görüntüsü
 
-git![](asset/ss.png)
+![](asset/ss.png)
